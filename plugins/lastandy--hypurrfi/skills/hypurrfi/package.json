@@ -24,7 +24,7 @@
   "author": "HypurrFi",
   "license": "MIT",
   "dependencies": {
-    "viem": "^2.21.0"
+    "viem": "^2.51.3"
   },
   "engines": {
     "node": ">=18.0.0"
