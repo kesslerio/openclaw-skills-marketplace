@@ -1,5 +1,14 @@
 # OpenClaw Skills Marketplace For Claude
 
+> [!WARNING]
+> This repository is deprecated and no longer receives updates. The upstream
+> `openclaw/skills` repository used to generate this marketplace has been
+> removed. OpenClaw now distributes community skills through
+> [ClawHub](https://clawhub.ai/).
+>
+> This repository remains available as a frozen snapshot. Use ClawHub to browse
+> and install current skills.
+
 This repository is an automatic conversion of [`openclaw/skills`](https://github.com/openclaw/skills) into the Claude Skills marketplace format so the skills can be installed and used directly in Claude.
 
 It takes the OpenClaw skill corpus and rewrites it into a Claude-compatible marketplace with:
